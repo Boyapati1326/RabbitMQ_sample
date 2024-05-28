@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\Send.exe
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\Send.dll
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\Send.deps.json
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\Send.runtimeconfig.json
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\Send.pdb
+C:\Users\User\Desktop\.Net\RabbitMQ\Send\Send\bin\Release\net8.0\publish\RabbitMQ.Client.dll
